@@ -8,7 +8,9 @@ TravelMate는 머신러닝 알고리즘을 활용하여 사용자의 선호도�
 
 **데이터 수집:** AI Hub
 
-**데이터 전처리:** Python, Numpy
+**사용 언어:** Python
+
+**데이터 전처리:** Pandas, Numpy
 
 **머신러닝:** Scikit-learn
 
